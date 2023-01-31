@@ -1,2 +1,2 @@
 # WebScraper
-A general purpose python webscraping tool to be used for other projects.
+A general purpose python webscraping tool to be used for a various other projects.
